@@ -1,0 +1,15 @@
+#
+# Mac files
+#
+.DS_Store
+
+#
+# Input files
+#
+ead.xml
+mets.xml
+
+#
+# Result file
+#
+merge_ead_into_mets.xml
