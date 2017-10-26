@@ -65,6 +65,7 @@ def main() :
 		print "METS is not an XML file"
 		exit()
 	merge(ead_file, mets_file)
+	print 'Results writed into : ' + result_file
 	print 'End script'
 
 #
